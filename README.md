@@ -7,7 +7,7 @@ Demo app for the Golang Personal Budget CLI Project.
 A proper Go environment is required in order to run this project.
 Once setup, tests can be run with the following command:
 
-`go test -v ./module1/ ./module2/`
+`go test -v ./internal/pkg/model/`
 
 ### Running with Docker
 
@@ -21,5 +21,5 @@ To start an interactive shell, run:
 
 From inside the shell, run the tests with:
 
-`go test -v ./module1/ ./module2/`
+`go test -v ./internal/pkg/model/`
 
