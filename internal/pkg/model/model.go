@@ -1,5 +1,7 @@
 package model
 
+//go test -v ./internal/pkg/model/
+
 import (
 	"errors"
 	"time"

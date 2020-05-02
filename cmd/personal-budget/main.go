@@ -1,6 +1,6 @@
 package main
 
-//github.com/imayavgi/personal-budget
+//go run ./cmd/personal-budget/main.go
 
 import (
 	"fmt"
