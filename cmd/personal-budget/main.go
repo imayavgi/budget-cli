@@ -1,9 +1,12 @@
 package main
 
+//github.com/imayavgi/personal-budget
+
 import (
 	"fmt"
-	m2 "personal-budget/module2"
 	"time"
+
+	m2 "github.com/imayavgi/personal-budget/internal/pkg/model"
 )
 
 var months = []time.Month{
